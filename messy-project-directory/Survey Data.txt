@@ -1,0 +1,55 @@
+	Field season 2014														
+															
+	Date collected	Species	Sex 	Weight	Plot	Measurement calibrated correctly									
+	19780108	DM	F	37	4	yes									
+	19780108	DM	M	null	4	yes									
+	19780108	DM	F	48	4	yes									
+	19780108	DO	M	52	4	yes									
+	19780108	OL	M	35	4	yes									
+	20130716	DM	F	null	2	yes									
+	20130716	DM	M	33	7	yes									
+	20130716	DM	M	null	3	yes									
+	20130716	DM	M	null	1	yes									
+	20130718	DM	M	40	3	yes									
+	20130718	DM	M	48	7	yes									
+	20130718	DM	F	29	4	yes									
+	20130718	DM	F	null	6	yes									
+	20130819	DO	F	52	8	yes									
+	20131017	DO	F	33	3	yes									
+	20131017	DO	F	50	3	yes									
+	20131112	DS	F	117	9	yes									
+	20131113	DS	F	126	11	yes									
+	20131113	DS	M	132	17	no									
+	20131113	DS	F	113	14	no									
+	20131113	DS	F	122	11	yes									
+	20131113	DS	F	107	4	yes									
+	20131113	DS	F	115	4	yes									
+	20131210	DO	F	40	9	yes									
+	20131210	DO	M	45	1	yes									
+	20131211	DO	F	41	8	yes									
+	20140108	NA	null	null	2	yes									
+	20140108	DM	M	44	2	yes									
+	20140108	PF	F	7	2	yes									
+	20140108	DM	M	45	2	yes									
+	20140108	OT	null	null	2	yes									
+	20140108	DS	M	157	2	no									
+	20140108	OX	null	null	2	yes									
+	20140109	DM	M	40	1	yes									
+	20140109	DM	F	36	1	yes									
+	20140218	NA	M	218	2	no									
+	20140218	PF	F	7	2	yes									
+	20140218	DM	M	52	2	yes									
+	20140311	PF	M	8	3	yes									
+	20140313	DM	F	51	1	yes									
+	20140313	DM	F	44	1	yes									
+	20140313	DS	F	146	1	yes									
+	20140408	NA	F	null	3	yes									
+	20140506	null	null	null	3	yes									
+	20140518	NA	F	182	3	yes									
+	20140609	OT	F	29	3	yes									
+	20140708	NA	F	115	3	yes									
+	20140708	NA	M	190	3	yes									
+															
+															
+															
+															

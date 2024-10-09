@@ -7,8 +7,8 @@ This homework will assess your ability to use GitHub, organize projects, and app
 **15 points**
 
 Make a GitHub account and populate your bio by including your research interests, place of work, location, professional webpage (or science-focused twitter account!). Here's an example [github.com/trvrb](https://github.com/trvrb/).
+https://github.com/ghezfarrell1/tfcb-homework01
 
-_Include the link to your GitHub profile here._
 
 ## Problem 2
 

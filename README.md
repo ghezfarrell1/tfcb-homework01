@@ -5,7 +5,7 @@
 3. This is the third item of my list. 
 4. Below is the link to my Github page:
 [my Github page](https://github.com/ghezfarrell1/tfcb-homework01)
-#I want to share some images here
+# I want to share some images here
 ![Camponotus darwinii](image/casent_0191696 Camponotus darwinii.jpg)
 ![Rhytidoponera metallica](/messy-project-directory/images/casent_0172345 Rhytidoponera metallica.jpg)
 ![canthomyrex](/messy-project-directory/images/casent0901788_p_1_high_Acanthomyrmex ferox.jpg)

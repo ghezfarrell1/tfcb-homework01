@@ -6,10 +6,10 @@
 4. Below is the link to my Github page:
 [my Github page](https://github.com/ghezfarrell1/tfcb-homework01)
 # I want to share some images here
-![Camponotus darwinii](https://github.com/ghezfarrell1/tfcb-homework01/blob/main/messy-project-directory/images/casent0901788_p_1_high_Acanthomyrmex%20ferox.jpg)
-![Rhytidoponera metallica](/messy-project-directory/images/casent_0172345 Rhytidoponera metallica.jpg)
-![canthomyrex](/messy-project-directory/images/casent0901788_p_1_high_Acanthomyrmex ferox.jpg)
-![cataglyphis](/messy-project-directory/images/casent0906296_p_1_high--Cataglyphis fortis.jpg)
+![Acanthomyrmex](https://github.com/ghezfarrell1/tfcb-homework01/blob/main/messy-project-directory/images/casent0901788_p_1_high_Acanthomyrmex%20ferox.jpg)
+![Cataglyphis](https://github.com/ghezfarrell1/tfcb-homework01/blob/main/messy-project-directory/images/casent0906296_p_1_high--Cataglyphis%20fortis.jpg)
+![Rhytidoponera](https://github.com/ghezfarrell1/tfcb-homework01/blob/main/messy-project-directory/images/casent_0172345%20Rhytidoponera%20metallica.jpg)
+![Camponotus](https://github.com/ghezfarrell1/tfcb-homework01/blob/main/messy-project-directory/images/casent_0191696%20Camponotus%20darwinii.jpg)
 
 ##Now my first table will follow below: 
 
